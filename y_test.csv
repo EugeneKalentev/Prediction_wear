@@ -1,4 +1,4 @@
-ID,Rotation_frequency,Type_of_abrasive,Material,Wear
+ID,Rotation_freq,Type_abrasive,Material,Wear
 1,4,K80,Cu,16.2
 2,4,K80,Al,12.5
 3,4,K120,Cu,14.8
@@ -36,8 +36,8 @@ ID,Rotation_frequency,Type_of_abrasive,Material,Wear
 35,15,K180,Cu,13.1
 36,15,K180,Al,11.1
 37,42,K80,Cu,17.7
-38,43,K80,Al,NaN
-39,44,K120,Cu,17.2
-40,45,K120,Al,Nan
-41,46,K180,Cu,15
-42,47,K180,Al,NaN
+38,42,K80,Al,NaN
+39,42,K120,Cu,17.2
+40,42,K120,Al,NaN
+41,42,K180,Cu,15
+42,42,K180,Al,NaN
